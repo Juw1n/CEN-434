@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html >
+<head>
+<title>Juwon’s Car Lifestyle Blog</title>
+<style>
+  body {font-family: Verdana, sans-serif; background: #fff; margin: 0;}
+  header {background: #222; color: #fff; padding: 20px; text-align: center;}
+    h2 {color: #222;}
+  footer {background: #222; color: #fff; text-align: center; padding: 10px;}
+</style>
+</head>
+<body>
+<header>
+  <h1>Juwon’s Car Lifestyle Blog</h1>
+  <p>Exploring cars and their designs</p>
+</header>
+
+<article>
+  <h2>The Rise of Electric Cars</h2>
+  <p><em>Posted on October 11, 2025</em></p> 
+  <p>Electric cars are revolutionizing transportation. They combine speed, sustainability,
+     and modern technology offering quiet rides and reduced emissions. Brands like Tesla and
+     Hyundai are leading the charge with affordable EV options.</p>
+  <p class="tags">Tags: #ElectricCars #Lifestyle #Sustainability</p>
+</article>
+
+<article>
+  <h2>Top 3 Sports Cars of 2025</h2>
+  <p><em>Posted on October 5, 2025</em></p>
+  <p>The Ferrari SF90, Porsche 911 Turbo S, and McLaren Artura continue to dominate
+     the sports car world with power, precision, and style. Each offers a unique driving thrill.</p>
+  <p class="tags">Tags: #Supercars #CarLovers #Performance</p>
+</article>
+
+<footer>
+  <p>© 2025 Juwon’s Car Lifestyle Blog | All Rights Reserved</p>
+</footer>
+</body>
+</html>
