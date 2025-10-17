@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Olaitan Olaoluwajuwon Portfolio</title>
+<style>
+  body {font-family: Arial, sans-serif;}
+  header {background: #a9afb6; color: white; padding: 20px; text-align: center;}
+    h2 {color: #1a73e8;}
+  .gallery img {width: 200px; margin: 10px; border-radius: 10px;}
+  footer {background: #1a73e8; color: white; text-align: center; padding: 10px;}
+</style>
+</head>
+<body>
+  <header>
+    <h1>Olaitan Olaoluwajuwon</h1>
+    <p>Achieving the SDG Goal: Good Health and Well-being</p>
+  </header>
 
+  <section>
+    <h2>About</h2>
+    <p>I am a member of the Enactus group, working towards achieving the Sustainable Development Goals (SDGs),
+       especially promoting good health and well-being. Our projects focus on innovation, entrepreneurship,
+       and social impact through community engagement.</p>
+  </section>
+
+  <section class="gallery">
+    <h2>Gallery</h2>
+    <p>Photos and videos from various activities and projects.</p>
+    <img src="eating food.jpg" alt="Project Photo 1">
+    <img src="stretching.jpg" alt="Project Photo 2">
+  </section>
+
+  <footer>
+    <p>Contact: +234 806054342 | Email: juwonolaitan68@gmail.com</p>
+  </footer>
+</body>
+</html> 
+  </footer>
+</body>
+</html> 
