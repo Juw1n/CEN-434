@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TrendWear Clothing Store</title>
+<style>
+  body {font-family: Arial, sans-serif; background: #f4f4f4; margin: 0;}
+  header {background: #222; color: #fff; text-align: center; padding: 20px;}
+    .item {background: #fff; border-radius: 10px; box-shadow: 0 0 5px #aaa; width: 250px; margin: 10px; padding: 15px; text-align: center;}
+  .item img {width: 100%; border-radius: 10px;}
+    button {background: #1a73e8; color: white; border: none; padding: 10px; border-radius: 5px; cursor: pointer;}
+  button:hover {background: #0b5ed7;}
+   {background-color:  #0b5ed7;}
+  footer {background: #222; color: white; text-align: center; padding: 10px;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>TrendWear Clothing Store</h1>
+  <p>Shop the latest fashion trends at affordable prices</p>
+</header>
+
+<section class="products">
+  <div class="item">
+    <img src="short.jpg" alt="Classic Short">
+    <h3>Classic Short</h3>
+    <p class="price">5000</p>
+    <p>Stylish and comfortable cotton short.</p>
+    <button>Add to Cart</button>
+  </div>
+
+  <div class="item">
+    <img src="jeans.jpg" alt="Denim Jeans">
+    <h3>Denim Jeans</h3>
+    <p class="price">4000</p>
+    <p>Perfect fit jeans for all-day comfort.</p>
+    <button>Add to Cart</button>
+  </div>
+
+  <div class="item">
+    <img src="jacket.jpg" alt="Leather Jacket">
+    <h3>Leather Jacket</h3>
+    <p class="price">75000</p>
+    <p>Classic black jacket.</p>
+    <button>Add to Cart</button>
+  </div>
+</section>
+
+<footer>
+  <p>Contact: support@trendwear.com | Phone: +234 806054342</p>
+</footer>
+</body>
+</html>
